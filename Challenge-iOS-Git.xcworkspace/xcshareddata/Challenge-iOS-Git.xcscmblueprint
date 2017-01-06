@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "046195F56D5E218DBBBA1819FF67F21F13931D8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EEDFE7BD79B61E0669A1CACFEB92C0E5A97C8BC1" : 9223372036854775807,
+    "046195F56D5E218DBBBA1819FF67F21F13931D8D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "939C07B1-B3A1-4430-9EC5-B6CE68711C32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EEDFE7BD79B61E0669A1CACFEB92C0E5A97C8BC1" : "",
+    "046195F56D5E218DBBBA1819FF67F21F13931D8D" : "Challenge-iOS-Git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Challenge-iOS-Git",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Challenge-iOS-Git.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luanhenriq10\/challenge-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "046195F56D5E218DBBBA1819FF67F21F13931D8D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/luanhenriq10\/iOS-Challenge.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEDFE7BD79B61E0669A1CACFEB92C0E5A97C8BC1"
+    }
+  ]
+}

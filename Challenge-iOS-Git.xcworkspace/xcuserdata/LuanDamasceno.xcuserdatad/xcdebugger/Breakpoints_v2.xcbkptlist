@@ -58,7 +58,7 @@
                   moduleName = "Challenge-iOS-Git"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/LuanDamasceno/Documents/ios-test/desafio-ios/Challenge-iOS-Git/Challenge-iOS-Git/Controller/Home/HomeViewController.swift"
-                  timestampString = "505279306.679139"
+                  timestampString = "505399044.774168"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "62"
@@ -73,12 +73,12 @@
                   moduleName = "Challenge-iOS-Git"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/LuanDamasceno/Documents/ios-test/desafio-ios/Challenge-iOS-Git/Challenge-iOS-Git/Controller/Home/HomeViewController.swift"
-                  timestampString = "505279306.681038"
+                  timestampString = "505399044.776097"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "62"
                   endingLineNumber = "62"
-                  offsetFromSymbolStart = "2572">
+                  offsetFromSymbolStart = "2576">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -138,7 +138,7 @@
                   moduleName = "Challenge-iOS-Git"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/LuanDamasceno/Documents/ios-test/desafio-ios/Challenge-iOS-Git/Challenge-iOS-Git/Controller/Home/HomeViewController.swift"
-                  timestampString = "505279306.692725"
+                  timestampString = "505399044.788665"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "71"
@@ -153,7 +153,7 @@
                   moduleName = "Challenge-iOS-Git"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/LuanDamasceno/Documents/ios-test/desafio-ios/Challenge-iOS-Git/Challenge-iOS-Git/Controller/Home/HomeViewController.swift"
-                  timestampString = "505279306.694842"
+                  timestampString = "505399044.791549"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "72"

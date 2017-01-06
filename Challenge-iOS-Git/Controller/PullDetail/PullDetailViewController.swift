@@ -96,7 +96,7 @@ extension PullDetailViewController: UITableViewDataSource {
         
         if let urlStr = item.url {
             let url = NSURL(string: urlStr)
-            UIApplication.sharedApplication().openURL(url!, options: [:], completionHandler: nil)
+            UIApplication.sharedApplication().openURL(url!)
         }
     }
 }

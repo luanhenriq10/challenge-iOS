@@ -6,7 +6,6 @@ target 'Challenge-iOS-Git' do
   use_frameworks!
 
   # Pods for Challenge-iOS-Git
-  pod 'HanekeSwift'
   pod 'Alamofire', '~> 3.5'
   pod 'ObjectMapper', '~> 1.4'
   pod 'pop', '~> 1.0'
