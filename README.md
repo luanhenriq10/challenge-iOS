@@ -3,7 +3,7 @@
 Desafio https://github.com/stationfy/desafio-ios terminado.
 
 Para rodar, baixe o projeto e use o comando:
-# pod install
+    pod install
 
 O .gitignore foi utilzado para realizar o commit da pasta Pods. Por ser apenas um gestor de dependencias.
 
