@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (3.5.1)
+  - AlamofireImage (2.5.0):
+    - Alamofire (~> 3.5)
+  - DZNEmptyDataSet (1.8.1)
+  - HanekeSwift (0.10.1)
+  - ObjectMapper (1.5.0)
+  - PKHUD (3.2.1)
+  - pop (1.0.9)
+  - TransitionTreasury (3.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.5)
+  - AlamofireImage (~> 2.5)
+  - DZNEmptyDataSet
+  - HanekeSwift
+  - ObjectMapper (~> 1.4)
+  - PKHUD (~> 3.0)
+  - pop (~> 1.0)
+  - TransitionTreasury (~> 3.0.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  AlamofireImage: 2d34936e5201270bb17a316a786e90e83b4a249d
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  ObjectMapper: 386645adca9d9d23b95eda43090b09d66444cf14
+  PKHUD: 001c11518f125a273ddf026bcc64918423744ea2
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  TransitionTreasury: 7228b7758ba4b742e152a198dbe6ca1e46b43949
+
+PODFILE CHECKSUM: 4c07bf56bf739b0fd99b85bf4de1037151d8eca4
+
+COCOAPODS: 1.1.1

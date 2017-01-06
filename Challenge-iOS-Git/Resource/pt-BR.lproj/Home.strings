@@ -1,0 +1,50 @@
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "2hh-Cs-NU8"; */
+"2hh-Cs-NU8.text" = "Username";
+
+/* Class = "UILabel"; text = "Não foi possivel carregar os repositórios do git."; ObjectID = "2sB-lP-pZs"; */
+"2sB-lP-pZs.text" = "Não foi possivel carregar os repositórios do git.";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "47z-fo-a9b"; */
+"47z-fo-a9b.text" = "Username";
+
+/* Class = "UILabel"; text = "Nome do repositório"; ObjectID = "8EO-4v-qCL"; */
+"8EO-4v-qCL.text" = "Nome do repositório";
+
+/* Class = "UILabel"; text = "640"; ObjectID = "8cV-bX-rCe"; */
+"8cV-bX-rCe.text" = "640";
+
+/* Class = "UILabel"; text = "Não há nenhum pull nesse repositório"; ObjectID = "Eih-s3-Bks"; */
+"Eih-s3-Bks.text" = "Não há nenhum pull nesse repositório";
+
+/* Class = "UILabel"; text = "640"; ObjectID = "GrM-vw-SCL"; */
+"GrM-vw-SCL.text" = "640";
+
+/* Class = "UILabel"; text = "Nome sobrenome"; ObjectID = "RoR-qD-4Md"; */
+"RoR-qD-4Md.text" = "Nome sobrenome";
+
+/* Class = "UILabel"; text = "Label    "; ObjectID = "RpM-rc-ZgW"; */
+"RpM-rc-ZgW.text" = "Label    ";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor, lorem ipslum dolor, lorem mistubihshe jiaji sdmsdm koska jieje "; ObjectID = "SgR-GE-Tem"; */
+"SgR-GE-Tem.text" = "Lorem ipsum dolor, lorem ipslum dolor, lorem mistubihshe jiaji sdmsdm koska jieje ";
+
+/* Class = "UILabel"; text = "Nome do repositório"; ObjectID = "YiV-1e-r8d"; */
+"YiV-1e-r8d.text" = "Nome do repositório";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor, lorem ipslum dolor, lorem mistubihshe jiaji sdmsdm koska jieje "; ObjectID = "dpo-4i-puC"; */
+"dpo-4i-puC.text" = "Lorem ipsum dolor, lorem ipslum dolor, lorem mistubihshe jiaji sdmsdm koska jieje ";
+
+/* Class = "UINavigationItem"; title = "GitHub JavaPop"; ObjectID = "nSa-HM-yva"; */
+"nSa-HM-yva.title" = "GitHub JavaPop";
+
+/* Class = "UILabel"; text = "13/10/2017 10:38"; ObjectID = "q0m-hd-18S"; */
+"q0m-hd-18S.text" = "13/10/2017 10:38";
+
+/* Class = "UILabel"; text = "Nome sobrenome"; ObjectID = "qTo-LA-3pj"; */
+"qTo-LA-3pj.text" = "Nome sobrenome";
+
+
+"Dialog.Error.UnexpectedError" = "Error inesperado";
+"Dialog.Error.Communication.Server" = "Houve um problema com a conexão com o servidor. Tente novamente mais tarde.";
+"Dialog.Error.GettingRepositories"  = "Não foi possivel obter os repositórios.";
